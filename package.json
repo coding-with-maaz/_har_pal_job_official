@@ -1,0 +1,28 @@
+{
+  "name": "_har_pal_job_official",
+  "version": "1.0.0",
+  "description": "Hello There",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-with-maaz/_har_pal_job_official.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/coding-with-maaz/_har_pal_job_official/issues"
+  },
+  "homepage": "https://github.com/coding-with-maaz/_har_pal_job_official#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.6"
+  }
+}
